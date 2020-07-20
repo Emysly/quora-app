@@ -22,6 +22,4 @@ public class Question extends AuditModel {
 
     @Column(columnDefinition = "text")
     private String description;
-
-    // Getters and Setters (Omitted for brevity)
 }
