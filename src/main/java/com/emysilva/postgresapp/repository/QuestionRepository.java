@@ -1,6 +1,6 @@
 package com.emysilva.postgresapp.repository;
 
-import com.example.postgresdemo.model.Question;
+import com.emysilva.postgresapp.model.Question;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
